@@ -1,5 +1,16 @@
-function sumar(a, b) {
-  return a + b;
+class calculdadora{
+  sumar(a, b) 
+  {
+    return a + b;
+  }
+
+  multiplicar(c, d)
+  {
+    return c * d;
+  }
+
+  
 }
 
-export default sumar;
+
+export default calculdadora;
